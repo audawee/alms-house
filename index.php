@@ -1,34 +1,28 @@
-<!DOCTYPE html>
-<html>
- <head>
-	<meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Új barát</title>
-	<link rel="stylesheet" type="text/css" href="stilus.css">
- </head>
- <body>
+<?php include('./templates/head.php') ?>
+
 	<header>
 		<img src="cegled_logo_3.png" alt="logo">
 		<h1>Új barát menhely</h1>
 	</header>
 	<div id="wrapper">
-			<nav>
-				<ul>
-					<li><a class="active" href="index.php">Főoldal</a></li>
-					<li><a href="bemutatkozas.html">Bemutatkozás</a></li>
-					<li><a href="regisztracio.php">Regisztráció</a></li>
-					<li><a href="belepes.html">Belépés</a></li>
-					<li><a href="kapcsolat.html">Kapcsolat</a></li>
-				</ul>
-        <a href="http://www.menhely.eu/" target="_blank">Forrás</a>
-			</nav>
+		<nav>
+			<ul>
+				<li><a class="active" href="index.php">Főoldal</a></li>
+				<li><a href="bemutatkozas.html">Bemutatkozás</a></li>
+				<li><a href="regisztracio.php">Regisztráció</a></li>
+				<li><a href="belepes.html">Belépés</a></li>
+				<li><a href="kapcsolat.php">Kapcsolat</a></li>
+			</ul>
+			<a href="http://www.menhely.eu/" target="_blank">Forrás</a>
+		</nav>
 	</div>
-	<div id="content">
+	<section id="content">
+		<div class="container">
 		<h2>Üdvözöljük honlapunkon!</h2>
 		<img src="arc.jpg">
 		<h3>Tisztelt Látogató!</h3>
 		<h4>Mottó: </h4>
-        <h4>Azok az emberek, akik segítenek az elhagyott állatokon, nem ismerik a boldogtalanságot, hisz minden kis állat megmentése boldogsággal tölti el a szívüket. (Carol Bigley)</h4>
+				<h4>Azok az emberek, akik segítenek az elhagyott állatokon, nem ismerik a boldogtalanságot, hisz minden kis állat megmentése boldogsággal tölti el a szívüket. (Carol Bigley)</h4>
 		<p>A Lorem Ipsum egy egyszerű szövegrészlete, szövegutánzata a betûszedõ és nyomdaiparnak.
 		A Lorem Ipsum az 1500-as évek óta standard szövegrészletként szolgált az iparban;
 		mikor egy ismeretlen nyomdász összeállította a betûkészletét és egy példa-könyvet vagy szöveget nyomott papírra,
@@ -56,9 +50,7 @@
 		Az oldal körülbelül 200 latin szót használ, egy maroknyi modell-mondatszerkezettel így téve a Lorem Ipsumot elfogadhatóvá.
 		Továbbá az elkészült Lorem Ipsum humortól, ismétlõdéstõl vagy értelmetlen szavaktól mentes.</p>
 		</div>
-	</div>
-	<footer>
-		&copy;&nbsp;Copyright 2018. Mini Honlap Kft.
-	</footer>
- </body>
+	</section>
+	<?php include('./templates/footer.php') ?>
+
  </html>

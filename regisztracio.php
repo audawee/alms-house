@@ -1,27 +1,22 @@
-<!DOCTYPE HTML>
-<html>
-	<head>
-	<meta charset="utf-8">
-	<title>Új barát</title>
-	<link rel="stylesheet" type="text/css" href="stilus.css">
-	</head>
-	<body>
-		<header>
-			<img src="cegled_logo_3.png" alt="logo">
-			<h1>Új barát menhely</h1>
-		</header>
-		<div id="wrapper">
-				<nav>
-					<ul>
-						<li><a class="sansserif" href="index.php">Főoldal</a></li>
-						<li><a class="sansserif" href="bemutatkozas.html">Bemutatkozás</a></li>
-						<li><a class="active sansserif" href="regisztracio.php">Regisztráció</a></li>
-						<li><a class="sansserif" href="belepes.html">Belépés</a></li>
-						<li><a class="sansserif" href="kapcsolat.html">Kapcsolat</a></li>
-						<li style="float:right"><a class="sansserif" href="http://www.menhely.eu/" target="_blank">Forrás</a></li>
-					</ul>
-				</nav>
-		<div id="content">
+<?php include('./templates/head.php') ?>
+	<header>
+		<img src="cegled_logo_3.png" alt="logo">
+		<h1>Új barát menhely</h1>
+	</header>
+	<div id="wrapper">
+		<nav>
+			<ul>
+				<li><a href="index.php">Főoldal</a></li>
+				<li><a href="bemutatkozas.html">Bemutatkozás</a></li>
+				<li><a class="active" href="regisztracio.php">Regisztráció</a></li>
+				<li><a href="belepes.html">Belépés</a></li>
+				<li><a href="kapcsolat.php">Kapcsolat</a></li>
+			</ul>
+			<a href="http://www.menhely.eu/" target="_blank">Forrás</a>
+		</nav>
+	</div>
+	<section id="content">
+	<div class="container">
 		<h2>Regisztráció</h2>
 		<from action="regisztral.php">
 			<label>Név: <input name="nev" type="text"></label><br><br>
@@ -53,6 +48,6 @@
 			<input value="Űrlap Feladása" type="submit">
 		</form>
 	</div>
-</div>
-	</body>
+	</section>
+	<?php include('./templates/footer.php') ?>
 </html>
