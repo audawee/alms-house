@@ -1,0 +1,148 @@
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/*end css reset*/
+
+body{
+	font-family: Montserrat, sans-serif;
+	line-height: 1.4;
+}
+
+header{
+	border-radius: 10px;
+	background-color: #1ee0e0;
+	padding: 10px;
+	margin: 10px;
+	display: flex;
+	align-items: center;
+}
+
+h2,h1{
+	font-size: 2em;
+	margin-bottom: 20px;
+}
+
+header img {
+	margin: 20px 10px 0px 10px;
+}
+
+header h1 {
+
+}
+
+#wrapper{
+	margin: 10px;
+}
+
+nav{
+	margin: 10px 0px 10px 0px;
+	border-radius: 10px;
+	background-color: #3a3a3a;
+	display: flex;
+	justify-content: space-between;
+}
+
+nav ul{
+	display: flex;
+	flex-wrap: wrap;
+}
+
+nav ul li {
+	list-style-type: none;
+}
+
+
+nav a.active {
+  background-color: #04DE54;
+  color: white;
+  padding: 15px;
+  border-radius: 10px;
+
+}
+
+nav a:hover:not(.active) {
+  background-color: #04DE54;
+  color: white;
+  padding: 15px;
+
+
+}
+
+nav a {
+	text-decoration: none;
+	display: block;
+	color: white;
+	padding: 15px;
+	border-radius: 10px;
+	transition: all .3s;
+}
+
+div#content {
+	display: table-cell;
+	width: 100%;
+	border-radius: 10px;
+	background-color: #99FFCC;
+	padding: 15px;
+}
+
+div#content  img {
+	float: right;
+	width: 20em;
+	height: auto;
+	margin: 0 0 15px 15px;
+	padding: 3px;
+	border: 3px solid blue;
+}
+
+footer {
+	border-radius: 10px;
+	margin: 10px;
+	padding: 5px 20px;
+	background-color: #CC99FF;
+}
