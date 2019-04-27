@@ -22,6 +22,7 @@
 				</ul>
         <a href="http://www.menhely.eu/" target="_blank">Forrás</a>
 			</nav>
+	</div>
 	<div id="content">
 		<h2>Üdvözöljük honlapunkon!</h2>
 		<img src="arc.jpg">
