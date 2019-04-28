@@ -70,6 +70,10 @@ header{
 	align-items: center;
 }
 
+header img{
+	margin: 5px;
+}
+
 h2,h1{
 	font-size: 2em;
 }
@@ -135,7 +139,7 @@ section#content  img {
 	height: auto;
 	margin: 0 0 15px 15px;
 	padding: 3px;
-	border: 3px solid blue;
+	border-radius: 15px;
 }
 
 footer {
@@ -143,5 +147,5 @@ footer {
 	color: white;
 	margin: 10px 0;
 	padding: 15px;
-	background-color: #59565c;
+	background-color: #3a3a3a;
 }

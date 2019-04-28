@@ -1,7 +1,7 @@
 <?php include('./templates/head.php') ?>
 	<header>
-		<img src="cegled_logo_3.png" alt="logo">
-		<h1>Új barát menhely</h1>
+		<img src="hlogo.png" alt="logo">
+		<h1>Röpke SE Röplabda Klub</h1>
 	</header>
 	<div id="wrapper">
 		<nav>
@@ -12,7 +12,7 @@
 				<li><a href="belepes.html">Belépés</a></li>
 				<li><a href="kapcsolat.php">Kapcsolat</a></li>
 			</ul>
-			<a href="http://www.menhely.eu/" target="_blank">Forrás</a>
+			<a href="http://ropkese.hu/#" target="_blank">Forrás</a>
 		</nav>
 	</div>
 	<section id="content">

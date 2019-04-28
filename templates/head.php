@@ -3,7 +3,7 @@
  <head>
 	<meta charset="utf-8">
  	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Új barát</title>
+	<title>Röpke SE</title>
 	<link rel="stylesheet" type="text/css" href="stilus.css">
  </head>
  <body>
