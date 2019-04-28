@@ -22,7 +22,7 @@
 		<img src="arc.jpg">
 		<h3>Tisztelt Látogató!</h3>
 		<h4>Mottó: </h4>
-				<h4>Azok az emberek, akik segítenek az elhagyott állatokon, nem ismerik a boldogtalanságot, hisz minden kis állat megmentése boldogsággal tölti el a szívüket. (Carol Bigley)</h4>
+		<h4>Azok az emberek, akik segítenek az elhagyott állatokon, nem ismerik a boldogtalanságot, hisz minden kis állat megmentése boldogsággal tölti el a szívüket. (Carol Bigley)</h4>
 		<p>A Lorem Ipsum egy egyszerű szövegrészlete, szövegutánzata a betûszedõ és nyomdaiparnak.
 		A Lorem Ipsum az 1500-as évek óta standard szövegrészletként szolgált az iparban;
 		mikor egy ismeretlen nyomdász összeállította a betûkészletét és egy példa-könyvet vagy szöveget nyomott papírra,
