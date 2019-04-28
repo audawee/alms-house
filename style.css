@@ -84,6 +84,11 @@ h2,h1{
 	margin: 0 auto;
 }
 
+.imgcontainer {
+	text-align: center;
+	margin: 24px 0 12px 0;
+}
+
 nav {
 	margin: 10px 0px 10px 0px;
 	border-radius: 10px;
