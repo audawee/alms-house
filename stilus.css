@@ -107,15 +107,12 @@ nav a.active {
   color: white;
   padding: 15px;
   border-radius: 10px;
-
 }
 
 nav a:hover:not(.active) {
   background-color: #04DE54;
   color: white;
   padding: 15px;
-
-
 }
 
 nav a {

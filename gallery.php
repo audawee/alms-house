@@ -8,8 +8,9 @@
 	</header>
 	<div id="wrapper">
 			<nav>
+			<ul>
 				<li><a href="index.php">Főoldal</a></li>
-				<li><a href="bemutatkozas.html">Bemutatkozás</a></li>
+				<li><a href="sponsors.php">Támogatóink</a></li>
 				<li><a href="registration.php">Regisztráció</a></li>
 				<li><a href="belepes.html">Belépés</a></li>
 				<li><a class="active" href="gallery.php">Galéria</a></li>
@@ -17,9 +18,12 @@
 			</ul>
 				<a href="http://ropkese.hu/#" target="_blank">Forrás</a>
 			</nav>
-		<div id="content">
-			<h2>Képek</h2>
-		</div>
+		<section id="content">
+			<div class="container">
+				<h2>Képek</h2>
+				<h3>Feltöltés:</h3>
+			</div>
+		</section>
 	</div>
 	<?php include('./templates/footer.php') ?>
 </html>	

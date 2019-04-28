@@ -6,9 +6,9 @@
 	</header>
 	<div id="wrapper">
 		<nav>
-			<ul>
+		<ul>
 				<li><a href="index.php">Főoldal</a></li>
-				<li><a href="bemutatkozas.html">Bemutatkozás</a></li>
+				<li><a href="sponsors.php">Támogatóink</a></li>
 				<li><a class="active" href="registration.php">Regisztráció</a></li>
 				<li><a href="belepes.html">Belépés</a></li>
 				<li><a href="gallery.php">Galéria</a></li>
