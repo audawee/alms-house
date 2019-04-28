@@ -2,9 +2,8 @@
 
 	<header>
 		<a href="index.php" class="logo float-left">
-		<img src="hlogo.png" alt="logo"></a>
+		<img src="images/hlogo.png" alt="logo"></a>
 		<h1>Röpke SE Röplabda Klub</h1>
-
 	</header>
 	<div id="wrapper">
 		<nav>
@@ -20,7 +19,7 @@
 	</div>
 	<section id="content">
 		<div class="container">
-		<img src="nb1_tagsag999_0.jpeg">
+		<img src="images/nb1_tagsag999_0.jpeg">
 		<h2>HÉP-Röpke SE</h2>
 		<p>A RÖPKE Kecskeméti Röplabda Sportegyesületet az alapító tagok 2006-ban azzal a céllal hozták létre, hogy az egyesület lehetőséget nyújtson az utánpótlás korú tehetséges sportolóinak arra, hogy pályafutásukat Kecskeméten folytathassák tudásuknak megfelelő bajnokságokban.
 		A megalakulás után az első két alkalommal NBII osztályban indult az egyesület női röplabda csapata, de nem tudott tovább fejlődni, így pár év szünet következett a felnőtt bajnokságban való részvételben.

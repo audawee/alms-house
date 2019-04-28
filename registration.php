@@ -1,6 +1,7 @@
 <?php include('./templates/head.php') ?>
 	<header>
-		<img src="hlogo.png" alt="logo">
+		<a href="index.php" class="logo float-left">
+		<img src="images/hlogo.png" alt="logo"></a>
 		<h1>Röpke SE Röplabda Klub</h1>
 	</header>
 	<div id="wrapper">
@@ -8,9 +9,10 @@
 			<ul>
 				<li><a href="index.php">Főoldal</a></li>
 				<li><a href="bemutatkozas.html">Bemutatkozás</a></li>
-				<li><a class="active" href="regisztracio.php">Regisztráció</a></li>
+				<li><a class="active" href="registration.php">Regisztráció</a></li>
 				<li><a href="belepes.html">Belépés</a></li>
-				<li><a href="kapcsolat.php">Kapcsolat</a></li>
+				<li><a href="gallery.php">Galéria</a></li>
+				<li><a href="contact.php">Kapcsolat</a></li>
 			</ul>
 			<a href="http://ropkese.hu/#" target="_blank">Forrás</a>
 		</nav>
