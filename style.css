@@ -84,11 +84,6 @@ h2,h1{
 	margin: 0 auto;
 }
 
-.imgcontainer {
-	text-align: center;
-	margin: 24px 0 12px 0;
-}
-
 nav {
 	margin: 10px 0px 10px 0px;
 	border-radius: 10px;
@@ -136,6 +131,14 @@ section#content {
 }
 
 section#content  img {
+	width: 20em;
+	height: auto;
+	margin: 0 0 15px 15px;
+	padding: 3px;
+	border-radius: 15px;
+}
+
+.img{
 	float: right;
 	width: 20em;
 	height: auto;

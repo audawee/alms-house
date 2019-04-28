@@ -91,7 +91,7 @@
         <label>
         <input type="checkbox" checked="checked" name="remember">Emlékezz rám
         </label>
-        <span class="psw"><a href="#">Forgot password?</a></span>
+        <span class="psw"><a href="#">Elfelejtett jelszó?</a></span>
   </div>
 </form>
     </section>
