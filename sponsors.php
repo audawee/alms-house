@@ -1,20 +1,3 @@
-Skip to content
- 
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@audawee 
-0
-0 0 audawee/alms-house
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights  Settings
-alms-house/sponsors.php
- Dávid Modok commit
-cdd16d8 3 hours ago
-32 lines (29 sloc)  928 Bytes
     
 <?php include('./templates/head.php') ?>
 
@@ -38,7 +21,7 @@ cdd16d8 3 hours ago
     </div>
     <section id="content">
         <div class="container">
-        <h2>A csapat névadó főszponzora a Hép Zrt.</h2>
+        <h2>A csapat névadó főszponzora a Hép Zrt.</h2><br>
         <img src="images/hep-zrt999_0.jpeg"><br>
         <img src="images/aranyhomok-kavehaz0_0.jpeg"><br>
         <img src="images/bekotours.jpeg"><br>
