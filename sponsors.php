@@ -38,16 +38,12 @@ cdd16d8 3 hours ago
     </div>
     <section id="content">
         <div class="container">
-        <h2>A csapat főszponzora: Hép Zrt.</h2>
-        <img src="images/hep-zrt999_0.jpeg">
-        <h2>Aranyhomok kávézó</h2>
-        <img src="images/aranyhomok-kavehaz0_0.jpeg">
-        <h2>Bekő Tours</h2>
-        <img src="images/bekotours.jpeg">
-        <h2>Domicolor Nyomda</h2>
-        <img src="images/domicolor0_0.jpeg">
-        <h2>Duna House</h2>
-        <img src="images/duna-house0_0.jpeg">
+        <h2>A csapat névadó főszponzora a Hép Zrt.</h2>
+        <img src="images/hep-zrt999_0.jpeg"><br>
+        <img src="images/aranyhomok-kavehaz0_0.jpeg"><br>
+        <img src="images/bekotours.jpeg"><br>
+        <img src="images/domicolor0_0.jpeg"><br>
+        <img src="images/duna-house0_0.jpeg"><br>
 
         </div>
     </section>
