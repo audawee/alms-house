@@ -1,7 +1,8 @@
 <?php include('./templates/head.php') ?>
 
 	<header>
-		<img src="cegled_logo_3.png" alt="logo">
+		<a href="index.php">
+		<img src="cegled_logo_3.png" alt="logo"></a>
 		<h1>Új barát menhely</h1>
 	</header>
 	<div id="wrapper">
