@@ -27,7 +27,7 @@
         <img src="images/bekotours.jpeg"><br>
         <img src="images/domicolor0_0.jpeg"><br>
         <img src="images/duna-house0_0.jpeg"><br>
-
+		<img src="images/furedi999_0.jpeg"><br>
         </div>
     </section>
 

@@ -21,7 +21,7 @@
 	<section id="content">
 		<div class="container">
 		<img src="images/nb1_tagsag999_0.jpeg" alt="image" class="img">
-		<h2>HÉP-Röpke SE</h2>
+		<h2>HÉP-Röpke SE</h2><br>
 		<p>A RÖPKE Kecskeméti Röplabda Sportegyesületet az alapító tagok 2006-ban azzal a céllal hozták létre, hogy az egyesület lehetőséget nyújtson az utánpótlás korú tehetséges sportolóinak arra, hogy pályafutásukat Kecskeméten folytathassák tudásuknak megfelelő bajnokságokban.
 		A megalakulás után az első két alkalommal NBII osztályban indult az egyesület női röplabda csapata, de nem tudott tovább fejlődni, így pár év szünet következett a felnőtt bajnokságban való részvételben.
 		A Sportiskola, mint az utánpótlás játékosok nevelő bázisa, továbbra is egyengette annak a közel 200 lánynak a pályafutását, akik a röplabdát választották sportágukként.

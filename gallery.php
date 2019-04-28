@@ -21,7 +21,7 @@
 		<section id="content">
 			<div class="container">
 				<h2>Képek</h2>
-				<h3>Feltöltés:</h3>
+				<p>Feltöltés:</p>
 			</div>
 		</section>
 	</div>
