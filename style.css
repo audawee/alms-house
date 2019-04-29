@@ -74,13 +74,21 @@ header img{
 	margin: 5px;
 }
 
-h2,h1,h3{
+h2,h1{
 	font-size: 2em;
+	font-weight: bold;
+}
+
+h3,h4{
 	font-weight: bold;
 }
 
 p{
 	text-align: justify;
+}
+
+iframe{
+	border-radius: 15px;
 }
 
 .container{

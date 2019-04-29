@@ -28,7 +28,8 @@
 		A lányok edzéseit nyolc szakember irányítja, akik testnevelőként és szakedzőként dolgoznak, több területen is külön, speciális képzettséggel rendelkeznek.
 		Kiemelten fontosnak tartjuk az utánpótlás bázisunk tömegesítését, minőségi szakmai munkával, amelynek eredményeként az utóbbi években minden korosztályunk az országos döntőbe jutott.
 		A legtehetségesebb játékosokkal 2014-ben újra elindultunk az NBII osztályú felnőtt bajnokságban, ahol az 1. helyet szereztük meg, így jogosulttá vált a csapat az NBI osztályban való szereplésre.
-		A röplabda sportágban ezt tekintjük egyesületünk legnagyobb sikerének, amely minden szakember együttes munkájának eredménye.</p>
+		A röplabda sportágban ezt tekintjük egyesületünk legnagyobb sikerének, amely minden szakember együttes munkájának eredménye.</p><br>
+		<iframe width="960" height="500" src="https://www.youtube.com/embed/P3uHw9YldDQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		</div>
 	</section>
 	<?php include('./templates/footer.php') ?>
